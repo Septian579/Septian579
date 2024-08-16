@@ -2,7 +2,7 @@
 <h3 align="center">A passionate [Your Profession] from [Your Country]</h3>
 
 <p align="center">
-  <a href="https://github.com/[YourGitHubUsername]/"><img src="https://img.shields.io/github/followers/[YourGitHubUsername]?label=Follow&style=social"></a>
+  <a href="https://github.com/Septian579]/"><img src="https://img.shields.io/github/followers/[YourGitHubUsername]?label=Follow&style=social"></a>
   <a href="https://twitter.com/[YourTwitterUsername]"><img src="https://img.shields.io/twitter/follow/[YourTwitterUsername]?label=Follow&style=social"></a>
 </p>
 
