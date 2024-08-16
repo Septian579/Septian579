@@ -12,7 +12,6 @@ I'm a [Beginner ] based in [Asian People].
 
 - [instagram](https://www.instagram.com/seppzw15?igsh=MWppMXlra2k5aWU5)
 - [Telegram](https://t.me/Zeinnzy)
-- [Portfolio](https://yourportfolio.com)
 - 📫 Email: Septianzuwanramadhanirama@gmail.com
 
 
