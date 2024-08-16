@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
+<h3 align="center">Hi there 👋, I'm [Septian Zuwan Ramdhani]</h3>
 <h3 align="center">A passionate [Your Profession] from [Your Country]</h3>
 
 <p align="center">
@@ -13,10 +13,10 @@
 </p>
 
 - 🔭 I’m currently working on **[Project Name](https://github.com/[YourGitHubUsername]/[YourProjectRepo])**
-- 🌱 I’m currently learning *[Technology/Language]*
+- 🌱 I’m currently learning *[HTML,CSS,JAVASCRIPT,REACT]*
 - 👯 I’m looking to collaborate on *[Project Type/Name]*
 - 💬 Ask me about *[Your Specialties]*
-- 📫 How to reach me *[Your Email]*
+- 📫 How to reach me *[Septianzuwanramadhanirama@gamil.com]*
 - ⚡ Fun fact *[Something interesting about you]*
 
 <h3 align="left">Connect with me:</h3>
