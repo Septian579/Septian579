@@ -18,4 +18,4 @@ I'm a [Beginner ] based in [Asian People].
 
 ---
 
-*“The only way to do great work is to love what you do.”* – Steve Jobs
+*“Work for your life, as if you will live forever and worship for your afterlife, as if you will not live long”*
