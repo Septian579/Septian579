@@ -1,6 +1,6 @@
 # Hello, I'm [SeptianZuwan] 👋
 
-I'm a [Beginner ] based in [Asian People].
+I'm a [Beginner ]
 
 ## 🚀 Still learning
 
